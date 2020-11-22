@@ -1,0 +1,8 @@
+apple
+boy
+cat
+dog
+elephant
+fish
+giraffe
+horse
